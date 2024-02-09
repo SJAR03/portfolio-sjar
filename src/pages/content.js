@@ -1,24 +1,52 @@
 // Personal Information --> #hero section
-export const name = "Peter Griffin"
-export const designation = "Safety Inspector"
-export const location = "Quahog, Rhode Island"
-export const pronouns = "he/him"
-export const website = "https://petergriffin.com"
+export const name = "Sergio Ayerdis"
+export const designation = "Analista de Sistemas"
+export const location = "Managua, Nicaragua"
+//export const pronouns = "he/him"
+//export const website = "https://petergriffin.com"
 
 // About
-export const about = "An adventurous man working as a safety inspector with a quirky sense of humor. Husband to Louis Griffin. Father of Chris, Brian, and Stewie."
+export const about = "Estudiante de ingenieria en sistemas y técnico en programación. Me gusta leer thrillers, jugar videojuegos y estar aprendiendo nuevas cosas constantemente. Trato de salir adelante como programador/analista de sistemas y no morir en el intento👻"
 
 // Work Experience --> #work section
 export const work = [
 	{
-		from: "2001",
-		to: "Present",
-		role: "Safety Inspector",
-		org: "Quahog Safety Department",
-		org_url: "https://quahog.gov/safety",
-		location: "Quahog, Rhode Island",
-		skills: "Safety Inspection, Risk Assessment, Emergency Response"
+		from: "Feb 2024",
+		to: "Presente",
+		role: "Analista de sistemas",
+		org: "Digesa",
+		//org_url: "https://quahog.gov/safety",
+		location: "Managua, Nicaragua",
+		skills: "Visual Basic .Net, C#, Microsoft SQL Server, PHP, ERP"
+	},
+	{
+		from: "Dic 2023",
+		to: "Ene 2024",
+		role: "Pasante de desarrollador",
+		org: "Batidos Pitaya",
+		//org_url: "https://quahog.gov/safety",
+		location: "Managua, Nicaragua",
+		skills: "Visual Basic, Access, SQL"
+	},
+	{
+		from: "Jul 2023",
+		to: "Oct 2023",
+		role: "Pasante de soporte técnico",
+		org: "García & Bodán",
+		//org_url: "https://quahog.gov/safety",
+		location: "Managua, Nicaragua",
+		skills: "Soporte técnico, Microsoft Office, Redes, Sistemas operativos, Base de datos"
+	},
+	{
+		from: "Dic 2018",
+		to: "Feb 2019",
+		role: "Pasante de informática",
+		org: "Megacom",
+		//org_url: "https://quahog.gov/safety",
+		location: "Managua, Nicaragua",
+		skills: "Sistemas operativos, Redes, Soporte técnico, Tecnologias de la información"
 	}
+
 ]
 
 // Projects --> #project section
@@ -52,25 +80,53 @@ export const projects = [
 // Education --> #education section
 export const education = [
 	{
-		from: "1995",
-		to: "1999",
-		institute: "Quahog High School",
-		course: "High School Diploma",
-		location: "Quahog, Rhode Island"
+		from: "2020",
+		to: "2023",
+		institute: "Universidad Centroamericana (UCA)",
+		course: "Ingeniería en Sistemas de Información",
+		location: "Managua, Nicaragua"
 	},
 	{
-		from: "1999",
-		to: "2003",
-		institute: "Quahog Community College",
-		course: "Bachelor of Science in Safety Management",
-		location: "Quahog, Rhode Island"
+		from: "2024",
+		to: "2026",
+		institute: "Universidad Rafael Landívar (URL)",
+		course: "Ingenieria de informática y sistemas",
+		location: "Quetzaltenango, Guatemala"
 	},
 	{
-		from: "2003",
-		to: "2005",
-		institute: "Safety University",
-		course: "Master of Science in Safety Engineering",
-		location: "Boston, Massachusetts"
+		from: "2015",
+		to: "2019",
+		institute: "Escuela Normal María Mazzarello",
+		course: "Bachiller",
+		location: "Managua, Nicaragua"
+	},
+	{
+		from: "2021",
+		to: "2022",
+		institute: "Keiser University",
+		course: "Certificado de ingles para desarrollo profesional",
+		location: "Managua, Nicaragua"
+	},
+	{
+		from: "2019",
+		to: "2021",
+		institute: "Escuela Normal María Mazzarello",
+		course: "Técnico medio en programación",
+		location: "Manaagua, Nicaragua"
+	},
+	{
+		from: "2017",
+		to: "2018",
+		institute: "ILCOMP",
+		course: "Operador de microcomputadoras",
+		location: "Managua, Nicaragua"
+	},
+	{
+		from: "2022",
+		to: "2023",
+		institute: "Centro Juvenil Don Bosco",
+		course: "CCNA",
+		location: "Managua, Nicaragua"
 	}
 ]
 
@@ -78,15 +134,11 @@ export const education = [
 export const contact = [
 	{
 		source_name: "Email",
-		source: "peter.griffin@example.com",
-	},
-	{
-		source_name: "Twitter",
-		source: "https://twitter.com/PeterGriffin",
+		source: "sayerdisrodriguez@gmail.com",
 	},
 	{
 		source_name: "LinkedIn",
-		source: "https://www.linkedin.com/in/peter-griffin",
+		source: "https://www.linkedin.com/in/sergioayerdis/",
 	},
 ]
 
